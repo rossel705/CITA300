@@ -1,0 +1,3 @@
+firstname,lastname,username,jobtitle,department,email,password,telephone,ou
+Tech,Two,TTwo,Manager,Information Technology,TTwo@team2.local,Password123,345-6789,"OU=Office,OU=IT,DC=team2,DC=local"
+Tech,One,TOne,Network Admin,Information Technology,TOne@team2.local,Password123,345-6787,"OU=Office,OU=IT,DC=team2,DC=local"
